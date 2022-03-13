@@ -22,16 +22,3 @@ function share_history {
 }
 PRiOMPT_COMMAND='share_history'
 shopt -u histappend
-
-#export PATH=$PATH:/usr/bin
-#export PATH=$PATH:/homes/sokazaki/.local/lib/python3.5/site-packages
-export PATH=$PATH:/homes/sokazaki/.local/bin
-export PATH=$PATH:/homes/sokazaki/anaconda3/bin
-export PATH=$PATH:/homes/sokazaki/usr/local/bin
-#export MECABRC=/homes/sokazaki/usr/local/etc/mecabrc
-
-
-SSH_AUTH_SOC=/tmp/ssh-dRI30qq51Nap/agent.29598
-SSH_AGENT_PID=29599
-
-
